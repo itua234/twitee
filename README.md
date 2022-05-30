@@ -1,7 +1,8 @@
-About Book Rating API
+<b>About Book Rating API</b>
+
 This API is built with the Laravel Framework:
 
-API Local Documentation url: (127.0.0.1:8000/api/docs)
+<b>API Local Documentation url:</b> (127.0.0.1:8000/api/docs)
 Cloning the project
 To clone the project, simply click on this link: Twitee API →:
 
@@ -15,4 +16,4 @@ Run php artisan key:generate
 Run php artisan migrate
 Run php artisan serve
 Go to localhost:8000 or 127.0.0.1:8000
-Thank you
+<b>Thank you</b>
